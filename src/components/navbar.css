@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*
+{
+    margin: 0;padding: 0;
+}
+
+.nav{
+    position: sticky;
+    background-color: rgb(163, 107, 163);
+     font-family: "Happy Monkey", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28px;
+}
+
+.navdiv
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    list-style-type: none;
+    margin: 0px 10px;
+}
